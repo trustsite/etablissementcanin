@@ -13,7 +13,7 @@ const PAGE_ORDER = [
 
 const translations = {
   fr: {
-    brandSubtitle: "Maison d'élevage de teckels",
+    brandSubtitle: "MAISON & UNIVERS DES TECKELS",
     navHome: "Accueil",
     navPuppies: "Nos chiots",
     navTransport: "Transport",
